@@ -1,0 +1,15 @@
+.sad-bear {
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+
+.sad-bear img {
+	width: 585px;
+	margin: 0 auto;
+	display: block;
+}
+
+/*
+Danger, You have nothing to do here
+*/
